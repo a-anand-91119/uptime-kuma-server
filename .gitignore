@@ -1,0 +1,5 @@
+.env
+kuma-data/**
+lets-encrypt/**
+
+.idea
